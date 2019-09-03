@@ -7,4 +7,6 @@ VRTK v3.3.0 https://github.com/ExtendRealityLtd/VRTK
 
 Oculus integration 1.38
 
+Unity 2019.2.0f1
+
 Apk was built for Oculus Quest
